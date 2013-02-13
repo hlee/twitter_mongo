@@ -9,11 +9,13 @@ http://railsapps.github.com/
 ________________________
 
 Recipes:
-["controllers", "core", "email", "extras", "frontend", "gems", "git", "init", "models", "prelaunch", "railsapps", "readme", "routes", "saas", "setup", "testing", "views"]
-
+```["controllers", "core", "email", "extras", "frontend", "gems", "git", "init", "models", "prelaunch", "railsapps", "readme", "routes", "saas", "setup", "testing", "views"]
+```
 Preferences:
+```
 {:git=>true, :railsapps=>"rails3-mongoid-omniauth", :database=>"mongodb", :orm=>"mongoid", :unit_test=>"rspec", :integration=>"cucumber", :fixtures=>"factory_girl", :frontend=>"none", :email=>"none", :authentication=>"omniauth", :omniauth_provider=>"twitter", :authorization=>"none", :starter_app=>"users_app", :form_builder=>"none", :quiet_assets=>true, :local_env_file=>true, :better_errors=>true, :dev_webserver=>"unicorn", :prod_webserver=>"puma", :templates=>"haml", :ban_spiders=>true, :rvmrc=>true, :github=>true}
-
+```
 ________________________
-
-License
+https://dev.twitter.com/apps/new
+http://docs.mongodb.org/manual/
+http://railscasts.com/episodes/238-mongoid-revised?view=asciicast
